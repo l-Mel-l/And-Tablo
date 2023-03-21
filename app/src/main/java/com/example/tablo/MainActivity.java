@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     public void onButtonSpir(View view){
         counterSpi=counterSpi+1;
         TextView counterView = findViewById(R.id.txt_counter);
-        counterView.setText(counterSpi.toString());;}
+        counterView.setText(counterSpi.toString());}
     public void onButtonPSG(View view){
         counterPSG=counterPSG+1;
         TextView counterView = findViewById(R.id.txt_counter2);

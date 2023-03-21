@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">tablo</string>
+    <string name="app_name">Таблица</string>
+    <string name="buttonSbros">СБРОС</string>
 </resources>
